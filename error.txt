@@ -1,0 +1,15 @@
+https://suggest-maps.yandex.ru/v1/suggest?text=NewYork&apikey=e9bc2a2b-bb33-46a7-b92f-d6004fc60151
+
+
+e9bc2a2b-bb33-46a7-b92f-d6004fc60151
+
+
+GET https://suggest-maps.yandex.ru/v1/suggest?text=NewYork&apikey=e9bc2a2b-bb33-46a7-b92f-d6004fc60151 net::ERR_HTTP_RESPONSE_CODE_FAILURE 403 (Forbidden)
+
+chrome-error://chromewebdata/:1  GET https://suggest-maps.yandex.ru/v1/suggest?text=NewYork net::ERR_HTTP_RESPONSE_CODE_FAILURE 400 (Bad request)
+Navigated to chrome-error://chromewebdata/
+chrome-error://chromewebdata/:1  GET https://suggest-maps.yandex.ru/v1/suggest?text=NewYork&apikey=e9bc2a2b-bb33-46a7-b92f-d6004fc60151 net::ERR_HTTP_RESPONSE_CODE_FAILURE 403 (Forbidden)
+Navigated to chrome-error://chromewebdata/
+chrome-error://chromewebdata/:1  GET https://suggest-maps.yandex.ru/v1/suggest?text=%22NewYork%22&apikey=e9bc2a2b-bb33-46a7-b92f-d6004fc60151 net::ERR_HTTP_RESPONSE_CODE_FAILURE 403 (Forbidden)
+Navigated to chrome-error://chromewebdata/
+chrome-error://chromewebdata/:1  GET https://suggest-maps.yandex.ru/v1/suggest?text=%22NewYork%22&apikey=%22e9bc2a2b-bb33-46a7-b92f-d6004fc60151%22 net::ERR_HTTP_RESPONSE_CODE_FAILURE 403 (Forbidden)
